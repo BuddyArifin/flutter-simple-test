@@ -3,6 +3,7 @@
 ## Run Test with this command
 ```bash
 $ flutter driver --target=test_driver/app.dart
+<<<<<<< HEAD
 ```
 
 ## Test Directory
@@ -27,3 +28,6 @@ test_driver/app_test.dart
 2. Reports
 3. Page Objects
 4. CI / CD implementations
+=======
+```
+>>>>>>> 28c4ba5793f10562485179b1700425da05180d9b
