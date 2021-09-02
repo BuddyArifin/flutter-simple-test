@@ -26,8 +26,6 @@ void main() {
     final totalItems = find.byValueKey('totalItems');
     final addToCart = find.byValueKey('add-to-cart');
     final clearCart = find.text('CLEAR CART');
-    final itemOne = find.byValueKey('cart-item-0');
-    final itemTwo = find.byValueKey('cart-item-1');
 
     setUpAll(() async {
       // Connect to a running Flutter application instance.
